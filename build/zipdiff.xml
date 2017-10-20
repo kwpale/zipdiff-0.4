@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zipdiff filename1="\\ecvserver\public\PVH\xpc.ear" filename2="D:\pvh\Release\pvhwip 4.5.3P2\xpc.ear">
+<differences>
+<added>wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/PVHWIPRemoveDependenceModel.class</added>
+<added>wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/PVHWIPTasksFieldsValueChangeModel.class</added>
+<added>wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/service/PVHWIPService.class</added>
+<added>wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/</added>
+<removed>project.jar/com/ecv/project/pvh/wip/service/PVHWIPService.class</removed>
+<removed>project.jar/com/ecv/project/pvh/wip/model/PVHWIPTasksFieldsValueChangeModel.class</removed>
+<removed>project.jar/com/ecv/project/pvh/wip/model/PVHWIPRemoveDependenceModel.class</removed>
+<changed>xpc.war</changed>
+<changed>wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPExcelExportHelper$WIPExportInfo.class</changed>
+<changed>wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPExcelExportHelper.class</changed>
+<changed>wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPExcelExportHelper$1.class</changed>
+<changed>wip-5.3-GA-H1-B02.jar</changed>
+<changed>wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPConstants.class</changed>
+<changed>xpc.jar</changed>
+<changed>visibility-web-5.3-GA-H1-B02.jar</changed>
+<changed>project.jar</changed>
+<changed>wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPExcelExportHelper$CodeChainValidateInfo.class</changed>
+</differences>
+</zipdiff>

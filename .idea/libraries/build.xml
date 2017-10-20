@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="build">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/commons-cli-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/zipdiff.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

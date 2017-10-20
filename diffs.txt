@@ -1,0 +1,15 @@
+4 files were added to D:\pvh\Release\pvhwip 4.5.3P2\xpc.ear
+	[added] wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/PVHWIPRemoveDependenceModel.class
+	[added] wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/PVHWIPTasksFieldsValueChangeModel.class
+	[added] wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/service/PVHWIPService.class
+	[added] wip-5.3-GA-H1-B02.jar/com/ecv/project/pvh/wip/model/
+3 files were removed from D:\pvh\Release\pvhwip 4.5.3P2\xpc.ear
+	[removed] project.jar/com/ecv/project/pvh/wip/service/PVHWIPService.class
+	[removed] project.jar/com/ecv/project/pvh/wip/model/PVHWIPTasksFieldsValueChangeModel.class
+	[removed] project.jar/com/ecv/project/pvh/wip/model/PVHWIPRemoveDependenceModel.class
+4 files changed
+	[changed] wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPExcelExportHelper.class  ( size 50390 : 55799 )
+	[changed] wip-5.3-GA-H1-B02.jar  ( size 1224654 : 1229249 )
+	[changed] wip-5.3-GA-H1-B02.jar/com/ecv/project/lf/wip/util/WIPConstants.class  ( size 7168 : 7285 )
+	[changed] project.jar  ( size 286568 : 284225 )
+Total differences: 11

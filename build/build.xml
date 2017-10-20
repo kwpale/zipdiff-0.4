@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<project name="MyTask" basedir="." default="use">
+    <target name="use" description="Use the Task">
+		<taskdef name="zipdiff" classname="zipdiff.ant.ZipDiffTask" classpath="zipdiff.jar"/>
+		<zipdiff filename1="\\ecvserver\public\PVH\xpc.ear" 
+			filename2="D:\pvh\Release\pvhwip 4.5.3P2\xpc.ear"
+			ignoreTimestamps="true"
+			compareCRCValues="false"
+			destfile="zipdiff.txt">
+		</zipdiff>
+   </target>
+</project>
